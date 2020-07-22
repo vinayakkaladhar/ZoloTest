@@ -42,6 +42,8 @@ DataProvider: SearchParametersDataProvider
 
 6.proper parameterisation and data provider used to dynamically serve data.
 
+7.Emailable report with sufficient data and testng-failed.xml to avoid flaky tests.
+
 ## Authors
 
 Vinayak kaladhar
